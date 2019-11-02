@@ -2,9 +2,8 @@
 title: "Pilkkoset"
 date: 2019-10-31T22:40:21+02:00
 draft: false
+featured_image: "/img/sockor.png"
 ---
-
-![sockor](/img/sockor.png)
 
 Materialet för försäljningen delas ut i klasserna fredagen den 1.11. Föräldrarna kommer att få inloggningskoder per e-post till Pilkkoset Team-sidorna. Där skall beställningarna skrivas in när det är dags. För varje sålda förpackning får vi 4 euro till lägerskolekassan.
 
