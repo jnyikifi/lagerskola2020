@@ -5,11 +5,11 @@ draft: false
 featured_image: "/img/granar.jpg"
 ---
 
-Julgranarna i år är traditionella finska julgranar i en storlek, 200-230 cm. Den yttersta spetsen räknas inte med i längden
+Julgranarna i år är traditionella finska julgranar i en storlek, 200-230 cm. Den yttersta spetsen räknas inte med i längden.
 
-Pris 40€, avhämtning från Finno skola (exakt dag och tidpunkt inte klar ännu troligen mellan 18-20.12), adressen är Finländarvägen 2, 02270 Esbo
+Pris 40€, avhämtning från Finno skola den 16-17.12 klockan 17-19, adressen är Finländarvägen 2, 02270 Esbo
 
-Pris 50€ med hemtransport (Esbo) (exakt dag och tidpunkt inte klar ännu troligen mellan 18-20.12) efter kl 17.
+Pris 50€ med hemtransport (Esbo) den 18.12 efter kl 17.
 
 Beställ granen genom att fylla i [denna form](https://forms.gle/1nJ9FszWfhjkgkKPA). Bekräfta din beställning genom att betala summan senast den 6.12 till lägerskolekontot.
 
@@ -23,9 +23,9 @@ Finno skolas femteklassister tackar för stödet!
 
 Joulukuuset ovat perinteisiä Suomalaisia metsäkuusia, joiden koko on 200-230cm. Pituuteen ei lasketa mukaan kuusen ylimmäistä latvaosaa.
 
-Hinta 40€ noudettuna Finno skolan pihalta 18./19./20.12 (päivä tarkentuu vielä) klo 17-19 välisenä aikana, osoite Suomalaistentie 2, 02270 Espoo
+Hinta 40€ noudettuna Finno skolan pihalta 16-17.12 klo 17-19 välisenä aikana, osoite Suomalaistentie 2, 02270 Espoo
 
-Hinta 50€ euroa kotiin toimitettuna (Espoo) 18./18./20.12 klo 17 jälkeen.
+Hinta 50€ euroa kotiin toimitettuna (Espoo) 18.12 klo 17 jälkeen.
 
 Tilaa kuusi [tilauslomakkeella](https://forms.gle/1nJ9FszWfhjkgkKPA). Vahvista tilaus maksamalla oikea summa luokan leirikoulutilille:
 
