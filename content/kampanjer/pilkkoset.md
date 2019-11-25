@@ -27,6 +27,7 @@ Försäljning av högklassiga inhemska Pilkkoset produkter 1.-18.11.2019
 3. Gör beställningarna senast den 18.11.2019 med hjälp av beställningslistan där du har samlat in produktnamn, kod, pris och antal
 4. Skicka en e-mail till dina kunder med beställningssumman och info om produkter de beställt
 5. Hämta produkterna från femmornas Pilkkoset representant
+  - Produkterna delas ut tisdagen den 26.11 klockan 20.00-20.15 vid röda huset, Finno skola
 6. Leverera produkterna till dina kunder
 7. Kolla att alla kunder betalar produkterna
 8. Betala hela summan till lägerskolekontot:
@@ -57,6 +58,7 @@ Laadukkaita kotimaisia Pilkkoset -tuotteita voit tilata 1.-18.11.2019
 3. Tee tilaukset tiimisivuille 18.11.2019 mennessä. Käytä apuna tilauslistaa, johon olet kerännyt tuotteiden nimet, koodit, hinnan ja määrän
 4. Lähetä viesti tilaajalle, jossa kerrot miten lasku maksetaan ja milloin tuotteet on saatavilla
 5. Hae tuotteet viidesluokkalaisten Pilkkoset -edustajalta
+  - Tiistaina 26.11 klo 20.00-20.15, Finnoon koululla, punainen talo
 6. Toimita tilaukset
 7. Tarkista, että asiakkaasi maksavat tilauksensa tilillesi
 8. Maksa hankkimasi tilaukset Leirikoulutilille:
