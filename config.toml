@@ -1,5 +1,5 @@
 baseURL = "http://lagerskola2020.lokala.org"
-languageCode = "fi"
+languageCode = "sv"
 title = "Finno skola lägerskola"
 theme = "ananke"
 
